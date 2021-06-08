@@ -1,0 +1,11 @@
+{
+    "Manual Input" : false,
+    "Vorname" : "Vladislavs",
+    "Nachname" : "Viktorovs",
+    "Geburtstag" : "19.10.2002",
+    "Tel" : "+37127734518",
+    "Mail" : "vv.viktorovs@gmail.com",
+    "From" : "08:00",
+    "To" : "19:00",
+    "Blacklisted_places" : ["Sauerlach", "Johanneskirchen"]
+}
