@@ -7,5 +7,6 @@
     "Mail" : "mail@gmail.com",
     "From" : "08:00",
     "To" : "19:00",
-    "Blacklisted_places" : ["Sauerlach", "Johanneskirchen"]
+    "Blacklisted_places" : ["Sauerlach", "Johanneskirchen"],
+    "avoided_vaccines" : ["2. Impfung mit AstraZeneca", "Johnson"]
 }
