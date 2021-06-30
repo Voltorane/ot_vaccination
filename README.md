@@ -1,9 +1,9 @@
 # ot_vaccination
-
+(any vaccination)
 To properly use this util you should follow these steps:
 	1. Make sure you have lates version of Python installed:
 	https://www.python.org/downloads/
-	2. Run "setup.bat" to install all required dependencies(if it does not work you need to install them by your own, just by copy'ng all the commands from batch file)
+	2. Run "requirements.bat" to install all required dependencies(if it does not work you need to install them by your own, just by copy'ng all the commands from batch file)
 	3. Extract chromedriver from archive, according to your OS
 	4. Change data.json:
 		4.1. If you want to manually fill all forms - change Manual filling to false
