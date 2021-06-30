@@ -8,7 +8,7 @@ To properly use this util you should follow these steps:
 4. Change data.json
 	1. If you want to manually fill all forms - change Manual filling to false
 	2. If you want to avoid any types of vaccines - make sure to add them to array(if you don't - just leave it empty)
-	3 Save the file
+	3. Save the file
 5. Run vaccine_any_asap.py
 6. Enjoy
 
