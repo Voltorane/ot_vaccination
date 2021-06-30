@@ -1,5 +1,6 @@
 ## ot_vaccination
-#(any vaccination)
+(any vaccination)
+
 To properly use this util you should follow these steps:
 
 1. Make sure you have lates version of Python installed: https://www.python.org/downloads/
