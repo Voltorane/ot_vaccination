@@ -1,0 +1,12 @@
+{
+    "Manual Input" : false,
+    "Vorname" : "Name",
+    "Nachname" : "Surname",
+    "Geburtstag" : "01.01.1900",
+    "Tel" : "0000000000",
+    "Mail" : "mail@gmail.com",
+    "From" : "08:00",
+    "To" : "19:00",
+    "Blacklisted_places" : ["Sauerlach", "Johanneskirchen"],
+    "avoided_vaccines" : ["2. Impfung mit AstraZeneca", "Johnson"]
+}
